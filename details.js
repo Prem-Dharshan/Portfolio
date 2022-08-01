@@ -6,19 +6,19 @@ const details = {
     description:
       "dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.",
 
-    occupation: "UI/UX Designer & Web Developer.",
+    occupation: "StudentPreneur & Programmer.",
     occupationDescription:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
 
     details: {
       dob: "5 March 2004",
       website: "https://ewhizard.tech",
-      phoneNo: "+91 ",
+      phoneNo: "+91 9445766916 ",
       city: "Coimbatore, Tamil Nadu",
       age: 18,
       degree: "HSC",
-      email: "",
-      freelance: "Available",
+      email: "premdharshan.dpd@gmail.com",
+      freelance: "For selected projects",
     },
 
     fromTheFoundersDesk:
