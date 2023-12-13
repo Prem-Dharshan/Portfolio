@@ -4,38 +4,46 @@ const details = {
   about: {
     title: "About",
     description:
-      "dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.",
+      "Was a teen with a vision, now a man with a mission.",
 
-    occupation: "StudentPreneur & Programmer.",
+    occupation: "Studentpreneur & Developer.",
     occupationDescription:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Backend Developer & Moderator @EWhizard.",
 
     details: {
       dob: "5 March 2004",
       website: "https://ewhizard.tech",
       phoneNo: "+91 9445766916 ",
       city: "Coimbatore, Tamil Nadu",
-      age: 18,
+      age: 19,
       degree: "HSC",
       email: "premdharshan.dpd@gmail.com",
-      freelance: "For selected projects",
+      hobbies: "Organising++",
     },
 
     fromTheFoundersDesk:
-      "Eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis. Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores.",
+      "Sed et consectetur qui quia repellendus itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores.",
   },
   facts: {},
   skills: {
     softSkills: [
       {
         name: "HTML",
-        progress: 60,
+        progress: 20,
       },
+      {
+        name: "CSS",
+        progress: 1
+      },
+      {
+        name: "Python",
+        progress: 80
+      }
     ],
     hardSkills: [
       {
-        name: "Enter one",
-        progress: 100,
+        name: "Organising",
+        progress: 99,
       },
     ],
   },
@@ -63,7 +71,16 @@ const details = {
   testimonials: {
     title: "Testimonials",
     description:
-      "Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.",
-    list: [],
+      "dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.",
+    list: [
+      {
+        name: "Dinesh",
+        description: "Prem is a dynamic leader whose success lies in his ability to motivate himself and the people\
+around him. He has a sharp ability to identify and tap in to a person's hidden potential, and I\
+have personally experienced it. Be it any task, Prem is keen to take on responsibilities head-on\
+and execute them flawlessly to his vision. After collaborating with him on EWhizard, I'm left\
+with nothing but positive things about Prem and the way he runs an organization!"
+      }
+    ],
   },
 };
